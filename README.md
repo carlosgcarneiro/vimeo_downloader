@@ -29,7 +29,7 @@ Usage
 
 To use this script, the master url needs to be manually extracted from the page:
 
-   `python vimeo-download.py --url "http://...master.json?base64_init=1" --output <optional_name>`
+   `python3 vimeo-download.py --url "http://...master.json?base64_init=1" --output <optional_name>`
 
 To get the master url:
 
